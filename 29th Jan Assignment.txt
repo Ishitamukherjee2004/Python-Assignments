@@ -1,0 +1,51 @@
+1. Who developed Python language?
+Guido Van Rossum
+
+2. Which type of programming does python support?
+Object-oriented programming and structured programming
+
+3. Is Python case sensitive when dealing with identifiers?
+Yes, Python is a case-sensitive language.
+
+4. What is the correct entention of python file?
+.py
+
+5. Is python code compiled or interpreted?
+Python is an interpreted language, which means the source code of a Python program is converted into bytecode that is then executed by the Python virtual machine.
+
+6. Name a few blocks of code used to define in python language?
+The following are blocks: a module, a function body, and a class definition.
+
+7. State a character used to give single-line comments workiing on?
+hash(#)
+
+8. Mention functions which can hellp us to find the version of python that we are actually working on?
+The function sys. version can help us to find the version of python that we are currently working on
+
+9. Python supports the create of annonymous function at runtime, using construct called-> lambda
+
+10. what does pip stand for python?
+an acronym of “pip Install Packages
+
+11. Mention a few built-in functions in python?
+print(), type(), input(), sorted(), pow()
+
+12. What is the maximum possible length of an identifier in python?
+79 characters
+
+13. What are the benefits of using python?
+i. easy to read annd learn
+ii. high compatibility
+iii. simplify complex software developement
+
+14. How is memory menaged in python?
+Python manages memory allocation using a combination of techniques
+
+15. How to install python on windows and set path variables?
+On Windows, right-click on the Computer or This PC icon and select “Properties.”
+Click on “Advanced system settings” and then “Environment Variables.”
+In the “System variables” section, find the variable called “Path” and click “Edit.”
+Click “New” and add the path you copied earlier.
+
+16. Is identation required in python?
+Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important. Python uses indentation to indicate a block of code.
